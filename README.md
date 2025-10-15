@@ -11,18 +11,6 @@ This repo contains all the codes and resources for our winning project at the De
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/7a279dbd-5ad5-4623-8282-f3ef8d16f08a" />
 
 
-
-### Our Team Members:
-- [Dimeth Nouicer](https://www.linkedin.com/in/dimeth-nouicer/) (Team Lead and Coordinator)
-- [Elie Mulamba](https://www.linkedin.com/in/eliemulamba/)(Evaluation Lead)
-- [Jeremie Mabiala](https://www.linkedin.com/in/jnlandu00a/)(Technical Lead)
-- [Imen Habibi](https://www.linkedin.com/in/habibi-imen-8b78b2216/)(Model development)
-- [Mame Diara Diouf](https://www.linkedin.com/in/mame-diarra-diouf-38875218a/)(Model development)
-- [Souleymane Diallo](https://www.linkedin.com/in/sdley/)(Model development)
-
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/8d3c61ef-b000-4904-9194-7f0381a451c4" />
-
-
 ## Illustration of Reinforcement Learning
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/a09aa225-c7ea-4c0e-813b-0f44f13ea2b7" />
@@ -61,18 +49,40 @@ The project idea is inspired by Dimeth Noucier who did her PhD in the field of e
 - Whatsapp group for communication
 - GitHub repository for version control and collaboration
 
+
+
+### Our Team Members:
+- [Dimeth Nouicer](https://www.linkedin.com/in/dimeth-nouicer/) (Team Lead and Coordinator)
+- [Elie Mulamba](https://www.linkedin.com/in/eliemulamba/)(Evaluation Lead)
+- [Jeremie Mabiala](https://www.linkedin.com/in/jnlandu00a/)(Technical Lead)
+- [Imen Habibi](https://www.linkedin.com/in/habibi-imen-8b78b2216/)(Model development)
+- [Mame Diara Diouf](https://www.linkedin.com/in/mame-diarra-diouf-38875218a/)(Model development)
+- [Souleymane Diallo](https://www.linkedin.com/in/sdley/)(Model development)
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/8d3c61ef-b000-4904-9194-7f0381a451c4" />
+
+
 ## References
 
-[1] Metz C (2017) ‘‘In two moves, AlphaGo and Lee Sedol redefined the future,’’. accessed: 2024-10-15
-[2] Metz C (2017) ‘‘How google’s AI viewed the move no human could understand,’’ . 2024-10-15
-[3] Cruz F, Young C, Dazeley R, Vamplew P (2022) ‘‘Evaluating human-like explanations for robot actions in reinforcement learning scenarios,’’ In: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 894–901,IEEE
-[4] Dazeley, R., Vamplew, P. & Cruz, F. Explainable reinforcement learning for broad-XAI: a conceptual framework and survey. Neural Comput & Applic 35, 16893–16916 (2023). https://doi.org/10.1007/s00521-023-08423-1
-[5] Nouicer, D., Msadaa, I. C., & Grayaa, K. (2023). *A Novel Routing Solution for EV Fleets: A Real-World Case Study Leveraging Double DQNs and Graph-Structured Data to Solve the EVRPTW Problem*. IEEE Access, PP(99):1-1. https://doi.org/10.1109/ACCESS.2023.3327324.
-[6] B. Lin, B. Ghaddar and J. Nathwani, "Deep Reinforcement Learning for the Electric Vehicle Routing Problem With Time Windows," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 8, pp. 11528-11538, Aug. 2022, doi: 10.1109/TITS.2021.3105232.
-[7] Kool, W., van Hoof, H., & Welling, M. (2019). Attention, Learn to Solve Routing Problems! In International Conference on Learning Representations. 
-[8] Stephanie Milani, Nicholay Topin, Manuela Veloso, and Fei Fang. 2024. Explainable Reinforcement Learning: A Survey and Comparative Review. ACM Comput. Surv. 56, 7, Article 168 (July 2024), 36 pages. https://doi.org/10.1145/3616864
-[9] M. Wang, Y. Wei, X. Huang and S. Gao, "An End-to-End Deep Reinforcement Learning Framework for Electric Vehicle Routing Problem," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3432911. 
-[10]  Glanois, C., Weng, P., Zimmer, M. et al. A survey on interpretable reinforcement learning. Mach Learn 113, 5847–5890 (2024). https://doi.org/10.1007/s10994-024-06543-w
+[1] Metz, C. (2017). *In two moves, AlphaGo and Lee Sedol redefined the future*. Accessed: 2024-10-15.
+
+[2] Metz, C. (2017). *How Google's AI viewed the move no human could understand*. Accessed: 2024-10-15.
+
+[3] Cruz, F., Young, C., Dazeley, R., & Vamplew, P. (2022). Evaluating human-like explanations for robot actions in reinforcement learning scenarios. In *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* (pp. 894–901). IEEE.
+
+[4] Dazeley, R., Vamplew, P., & Cruz, F. (2023). Explainable reinforcement learning for broad-XAI: a conceptual framework and survey. *Neural Computing and Applications*, 35, 16893–16916. https://doi.org/10.1007/s00521-023-08423-1
+
+[5] Nouicer, D., Msadaa, I. C., & Grayaa, K. (2023). A novel routing solution for EV fleets: A real-world case study leveraging double DQNs and graph-structured data to solve the EVRPTW problem. *IEEE Access*, PP(99), 1-1. https://doi.org/10.1109/ACCESS.2023.3327324
+
+[6] Lin, B., Ghaddar, B., & Nathwani, J. (2022). Deep reinforcement learning for the electric vehicle routing problem with time windows. *IEEE Transactions on Intelligent Transportation Systems*, 23(8), 11528-11538. https://doi.org/10.1109/TITS.2021.3105232
+
+[7] Kool, W., van Hoof, H., & Welling, M. (2019). Attention, learn to solve routing problems! In *International Conference on Learning Representations*.
+
+[8] Milani, S., Topin, N., Veloso, M., & Fang, F. (2024). Explainable reinforcement learning: A survey and comparative review. *ACM Computing Surveys*, 56(7), Article 168. https://doi.org/10.1145/3616864
+
+[9] Wang, M., Wei, Y., Huang, X., & Gao, S. (2024). An end-to-end deep reinforcement learning framework for electric vehicle routing problem. *IEEE Internet of Things Journal*. https://doi.org/10.1109/JIOT.2024.3432911
+
+[10] Glanois, C., Weng, P., Zimmer, M., et al. (2024). A survey on interpretable reinforcement learning. *Machine Learning*, 113, 5847–5890. https://doi.org/10.1007/s10994-024-06543-w
 
 
 

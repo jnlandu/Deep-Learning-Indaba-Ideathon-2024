@@ -2,13 +2,13 @@
 
 This repo contains all the codes and resources for our winning project at the Deep Learning  Ideathhon 2024.  The goal of this project is to publish  a research paper on the topic of "Transparent Decision-Making for Electric Vehicle Routing: Integrating DRL, GNN, and xAI".
 
- We aim to develop an approach that combines Deep Reinforcement Learning (DRL), Graph Neural Networks (GNN), and Explainable AI (xAI) to optimize electric vehicle routing while ensuring transparency in decision-making processes.
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/ea74a66e-0583-4c13-b5df-0300761972d1" />
+
+
 
 ## An intro to EVRP
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/7a279dbd-5ad5-4623-8282-f3ef8d16f08a" />
-
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/ea74a66e-0583-4c13-b5df-0300761972d1" />
 
 
 
